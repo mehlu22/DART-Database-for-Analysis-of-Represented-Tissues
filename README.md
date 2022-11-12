@@ -5,4 +5,4 @@ DART has multiple functions including browsing, querying, input, and download fu
 
 An input option allows the user to input a list of genes that they will be analyzing. The genes from the input will be extracted to see which specific tissues are those elevated or enriched in, as well as which MSigDB would be the best for the user to use when conducting pathway enrichment analysis. The database also has a feature to download any particular table (filtered or unfiltered) as a csv file.
 
-P.S. :- To run the application download files from app.R and everything below it, and the www folder.
+P.S. :- To run the application download files from app.R and everything below it, and the "www" folder.
